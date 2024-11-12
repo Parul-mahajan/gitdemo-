@@ -4,5 +4,5 @@ console.log("HI")
 
 
 working - still coding as a developer
-staging - 
-commited 
+staging - change 2, 3
+commited - 
