@@ -4,5 +4,5 @@ console.log("HI")
 
 
 working - still coding as a developer
-staging - 
+staging - ready for commited
 commited 
